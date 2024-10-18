@@ -1,0 +1,37 @@
+<resources>
+
+    <string name="personal_organizer_system">Personal Organizer System</string>
+    <string name="friends">Friends</string>
+    <string name="tasks">Tasks</string>
+    <string name="events">Events</string>
+    <string name="images">Images</string>
+    <string name="add_friends">Add Friends</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="age">Age</string>
+    <string name="address">Address</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="add">Add</string>
+    <string name="name">Name</string>
+    <string name="update_friends">Update Friends</string>
+    <string name="edit_image">Edit Image</string>
+    <string name="delete">Delete</string>
+    <string name="add_tasks">Add Tasks</string>
+    <string name="location">Location</string>
+    <string name="coming_events">Coming Events</string>
+    <string name="past_events">Past Events</string>
+    <string name="add_events">Add Events</string>
+    <string name="event_name">Event Name</string>
+    <string name="add_event">Add Event</string>
+    <string name="event_details">Event Details</string>
+    <string name="event_location">Event Location</string>
+    <string name="event_date">Event Date</string>
+    <string name="event_time">Event Time</string>
+    <string name="task_name">Task Name</string>
+    <string name="mark_as_done">Mark as Done</string>
+    <string name="pending_tasks">Pending Tasks</string>
+    <string name="completed_tasks">Completed Tasks</string>
+    <string name="events_name">Events Name</string>
+    <string name="select_date">Select Date</string>
+</resources>
